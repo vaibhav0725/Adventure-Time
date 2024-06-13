@@ -60,13 +60,13 @@ section{
     background-position: center;
 }
 .bg1{
-    background-image: url(/Assets/biking.png);
+    background-image: url(biking.png);
 }
 .bg2{
-    background-image: url(/Assets/paragliding.png);
+    background-image: url(paragliding.png);
 }
 .bg3{
-    background-image: url(/Assets/surfing.png);
+    background-image: url(surfing.png);
 }
 
 .desc{
