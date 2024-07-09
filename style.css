@@ -6,7 +6,6 @@
 }
 
 #wrapper{
-    background-color: rgb(45,45,45);
     height:100vh;
     overflow-y: auto;
     overflow-x: hidden;
