@@ -12,7 +12,6 @@
     perspective: 10px;
 }
 .container{
-    background-color: rgb(45,45,45);
     position: relative;
     height: 100%;
     display: flex;
